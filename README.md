@@ -1,1 +1,1 @@
-# Slackbot# SlackBot
+# Slackbot
